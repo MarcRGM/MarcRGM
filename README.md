@@ -4,6 +4,9 @@
 <p align="center"><strong>𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 & 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎</strong></p>
 <p align="left">
   <a href="https://www.linkedin.com/in/marc-rodnie-manalo-a49a81258/">
-    <img src="LinkedIn.png" alt="LinkedIn" width="220" height="60">
+    <img src="LinkedIn.png" alt="LinkedIn" style="width:18%; height:auto;">
+  </a>
+  <a href="https://www.facebook.com/marcrodnie28.manalo">
+    <img src="Facebook.png" alt="Facebook" style="width:18%; height:auto;">
   </a>
 </p>
