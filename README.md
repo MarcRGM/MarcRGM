@@ -2,12 +2,13 @@
   <img src="banner.png" alt="Profile banner" style="width:100%; border-radius:12px;">
 </p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/marc-rodnie-manalo-a49a81258/"
-     style="display:inline-block; text-decoration:none; margin-right:8px;">
+  <a href="https://www.linkedin.com/in/marc-rodnie-manalo-a49a81258/">
     <img src="LinkedIn.png" alt="LinkedIn" style="width:18%; height:auto;">
   </a>
-  <a href="https://www.facebook.com/marcrodnie28.manalo"
-     style="display:inline-block; text-decoration:none;">
+  <a href="https://github.com/MarcRGM?tab=overview&from=2025-10-01&to=2025-10-31">
+    <img src="line.png" alt="Line" style="width:64%; height:auto;">
+  </a>
+  <a href="https://www.facebook.com/marcrodnie28.manalo">
     <img src="Facebook.png" alt="Facebook" style="width:18%; height:auto;">
   </a>
 </p>
