@@ -3,10 +3,12 @@
 </p>
 <p align="center"><strong>𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 & 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎</strong></p>
 <p align="left">
-  <a href="https://www.linkedin.com/in/marc-rodnie-manalo-a49a81258/">
-    <img src="LinkedIn.png" alt="LinkedIn" style="width:18%; height:auto;">
+  <a href="https://www.linkedin.com/in/marc-rodnie-manalo-a49a81258/"
+     style="text-decoration:none;">
+    <img src="LinkedIn.png" alt="LinkedIn" style="width:18%; height:auto; margin-right:8px;">
   </a>
-  <a href="https://www.facebook.com/marcrodnie28.manalo">
+  <a href="https://www.facebook.com/marcrodnie28.manalo"
+     style="text-decoration:none;">
     <img src="Facebook.png" alt="Facebook" style="width:18%; height:auto;">
   </a>
 </p>
