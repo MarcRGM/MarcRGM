@@ -3,15 +3,15 @@
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/marc-rodnie-manalo-a49a81258/"
-     style="text-decoration:none; border:none;">
+     style="text-decoration:none; border:none; display:inline-block;">
     <img src="LinkedIn.png" alt="LinkedIn"
-         style="width:18%; height:auto; display:block; border:none;">
+         style="width:18%; height:auto; border:none; vertical-align:middle;">
   </a>
 
   <a href="https://www.facebook.com/marcrodnie28.manalo"
-     style="text-decoration:none; border:none;">
+     style="text-decoration:none; border:none; display:inline-block;">
     <img src="Facebook.png" alt="Facebook"
-         style="width:18%; height:auto; display:block; border:none;">
+         style="width:18%; height:auto; border:none; vertical-align:middle;">
   </a>
 </p>
 <p align="center"><strong>𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 & 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎</strong></p>
