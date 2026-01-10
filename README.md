@@ -3,7 +3,7 @@
 </p>
 <p align="left">
   <a href="https://github.com/MarcRGM">
-    <img src="test.png" alt="Test" style="width:50%; height:auto;">
+    <img src="test.png" alt="Test" style="width:45%; height:auto;">
   </a>
 </p>
 
