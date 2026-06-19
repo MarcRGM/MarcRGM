@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="new_banner.png" alt="Profile banner" style="width:100%; border-radius:12px;">
+  <img src="purple_banner.png" alt="Profile banner" style="width:100%; border-radius:12px;">
 </p>
 <p align="left">
   <a href="https://github.com/MarcRGM">
-    <img src="fastfetch.png" alt="Test" style="width:100%; height:auto;">
+    <img src="fetch.png" alt="Test" style="width:100%; height:auto;">
   </a>
 </p>
 
