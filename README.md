@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Profile banner" style="width:100%; border-radius:12px;">
+  <img src="new_banner.png" alt="Profile banner" style="width:100%; border-radius:12px;">
 </p>
 <p align="left">
   <a href="https://github.com/MarcRGM">
